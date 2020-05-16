@@ -41,7 +41,7 @@ Amazon Kinesis offers managed services for streaming data called Kinesis Data St
 - And then finally, before hitting Next, click on the AIM role button and pick the default option.
 - At this point you are good to go! Hit Next. On the review page, ensure your options are entered as intended and hit Create.
 
-**Kinesis Delivery Stream Configuratio**
+**Kinesis Delivery Stream Configuration**
 ![Kinesis Delivery Stream](https://user-images.githubusercontent.com/6689256/82111947-98643480-9716-11ea-9c84-fb189e27b861.PNG)
 
 
