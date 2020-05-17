@@ -1,6 +1,4 @@
-# AWS-Lambda
-AWS Lambda, a server-less computation service provided by AWS 
-
+# AWS-Lambda & AWS Kinesis
 In this exercise we try to learn how to use the AWS services - Lambda and Kinesis
 
 ## AWS Lambda
